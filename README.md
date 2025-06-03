@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AkashAS-coder
+- 👀 I’m interested in AI/ML/NLP/Cybersecurity.
+- 🌱 I’m currently learning Python and C++.
+- 💞️ I’m looking to collaborate on various development projects.
+- 📫 How to reach me: akashaks2010@gmail.com
+- 😄 Pronouns: he/him
